@@ -83,7 +83,7 @@ portfolio4/
 
 ## 📜 License
 
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
+This project is licensed under the terms described in the [LICENSE](License) file.
 
 ---
 
