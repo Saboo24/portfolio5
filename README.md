@@ -11,7 +11,7 @@ This is my personal portfolio website where I showcase my **projects**, **skills
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+You can view the live website here: [Live Demo](https://lovely-selkie-bcdf08.netlify.app/)
 
 ---
 
